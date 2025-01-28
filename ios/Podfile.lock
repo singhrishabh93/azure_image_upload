@@ -1,0 +1,41 @@
+PODS:
+  - AZSClient (0.2.6)
+  - azure_blob_flutter (0.0.1):
+    - AZSClient
+    - Flutter
+  - Flutter (1.0.0)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - permission_handler_apple (9.3.0):
+    - Flutter
+
+DEPENDENCIES:
+  - azure_blob_flutter (from `.symlinks/plugins/azure_blob_flutter/ios`)
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AZSClient
+
+EXTERNAL SOURCES:
+  azure_blob_flutter:
+    :path: ".symlinks/plugins/azure_blob_flutter/ios"
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  AZSClient: efd576cabf56f97e38cb1b614739f4b0c1906392
+  azure_blob_flutter: b90c9788f34fd57d8ecfc1ddde954ae72b2bc9d0
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  image_picker_ios: c560581cceedb403a6ff17f2f816d7fea1421fc1
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
